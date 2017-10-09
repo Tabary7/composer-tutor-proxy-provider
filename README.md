@@ -10,7 +10,7 @@ Modifier `composer.json` :
 {
     // ...
     "require": {
-        "etna/tutor-proxy-provider": "~2.0.x"
+        "etna/tutor-proxy-provider": "1.0.0"
     },
     "repositories": [
        {
